@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm YouJin!
 
-<br>
-
 - 🔭 I’m currently an Electronic & Electrical Engineering final year student @ [Ewha Womans University](https://ewha.ac.kr) 🌸
 - 🌱 I’m learning embedded software developments 👩‍💻 (newbie🍀) as well as my major studies focusing on introduction to VLSI, embedded system designs, data structure & algorithms, digital image processing ⚡
 - 🌼 I'm also interested in tech-leadership, presentations, writing journals, creative digital design content creations
@@ -9,11 +7,12 @@
 
 - 💡 Main stacks: 
 
-
+<!--
   <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white "/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  </p> 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src ="https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white "/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>  </p> -->
   
   <!--img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/RubyonRails-CC0000?style=flat-square&logo=Ruby-on-rails&logoColor=white"/> <img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=Raspberry-pi&logoColor=white"/-->
+  
 
 - 📫 How to reach me: 
    <p>
