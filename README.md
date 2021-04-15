@@ -5,7 +5,6 @@
 - 🌼 I'm also interested in tech-leadership, presentations, writing journals, creative digital design content creations
 - 🤔 I’m looking for help in open-source embedded SW/HW project ideas + ✨teammates✨ who are willing to join a great learning journey into this field as beginners! _Feel free to hit me up through the links below!_
 
-- 💡 Main stacks: 
 
 <!--
   <p>
