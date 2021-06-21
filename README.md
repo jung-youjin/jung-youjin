@@ -1,10 +1,8 @@
 ### Hi there 👋 I'm YouJin!
 
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
-- 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀) as well as my major studies focusing on integrated circuit designs, digital image processing, deep learning ⚡
-- 🌼 I'm also interested in **web dev**, **tech-leadership**, presentations, writing journals, **creative design creations**, mcu, **AI**
-- 🤔 I’m looking for help in open-source embedded SW/HW project ideas + ✨teammates✨ who are willing to join a great learning journey into this field as beginners! _Feel free to hit me up through the links below!_
-
+- 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀 focusing on embedded sw) as well as my major studies focusing on integrated circuit designs, digital image processing + deep learning ⚡
+- 🌼 I'm also interested in **web dev**, **tech-leadership**, presentations, writing journals, **creative design creations**, **AI**
 
 <!--
   <p>
