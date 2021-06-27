@@ -1,6 +1,12 @@
 ### Hi there 👋 I'm YouJin!
 
+
+![https://github.com/jung-youjin](https://user-images.githubusercontent.com/37402072/123548370-7ce3ae00-d79f-11eb-8c14-644ff3914a2f.gif)
+<img src ="https://user-images.githubusercontent.com/37402072/123548757-20818e00-d7a1-11eb-8a03-bf57a7119072.gif" height="225px"/>
+<!-- <img src ="https://user-images.githubusercontent.com/37402072/123548578-4bb7ad80-d7a0-11eb-976e-a58987931fd9.gif" width="225px"/> -->
+
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) with passion in software development! 🌸
+- 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀 focusing on embedded systems) as well as my major studies focusing on integrated circuit designs, digital image processing and deep learning ⚡
 <!-- - 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀 focusing on embedded sw) as well as my major studies focusing on integrated circuit designs, digital image processing + deep learning ⚡
 - 🌼 I'm also developing my skills in **tech-leadership**, making presentations, writing journals, **creative design creations**
 - 💡 I love to create, develop,  -->
