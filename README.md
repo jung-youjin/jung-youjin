@@ -4,8 +4,8 @@
 <p>
 <!-- ![https://github.com/jung-youjin](https://user-images.githubusercontent.com/37402072/123548370-7ce3ae00-d79f-11eb-8c14-644ff3914a2f.gif) -->
    
-  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" height="250px" />
-  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" height="300px"/>
+  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" height="170px" />
+  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" height="220px"/>
 
         
 
