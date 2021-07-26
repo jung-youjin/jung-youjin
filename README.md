@@ -4,8 +4,8 @@
 <p>
 <!-- ![https://github.com/jung-youjin](https://user-images.githubusercontent.com/37402072/123548370-7ce3ae00-d79f-11eb-8c14-644ff3914a2f.gif) -->
    
-  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" height="170px" />
-  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" height="220px"/>
+  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" height="130px" />
+  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" height="190px"/>
 
         
 
@@ -30,7 +30,7 @@
 </p>
   
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
-- 🌱 I’m passionate in software developments 👩‍💻 on embedded systems as well as my major studies focusing on integrated circuit hardware designs. I'm also interested in cloud based DevOps and AI applications lately! ⚡
+- 🌱 I’m passionate in software developments 👩‍💻 on embedded systems as well as my major studies focusing on integrated circuit hardware designs. I'm also developing interested in DevOps with AI applications lately. ⚡
 - 💡 I love to create, develop and communicate. Communities are what makes me endlessly motivated. Feel free to reach me! 😘
 <!-- - 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀 focusing on embedded sw) as well as my major studies focusing on integrated circuit designs, digital image processing + deep learning ⚡
 - 🌼 I'm also developing my skills in **tech-leadership**, making presentations, writing journals, **creative design creations**
