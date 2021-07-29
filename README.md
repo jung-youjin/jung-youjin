@@ -4,8 +4,8 @@
 <p>
 <!-- ![https://github.com/jung-youjin](https://user-images.githubusercontent.com/37402072/123548370-7ce3ae00-d79f-11eb-8c14-644ff3914a2f.gif) -->
    
-  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" height="130px" />
-  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" height="190px"/>
+  <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" width="25%" />
+  <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" width="25%"/>
 
         
 
@@ -29,6 +29,7 @@
 <!-- <img src ="https://user-images.githubusercontent.com/37402072/123548578-4bb7ad80-d7a0-11eb-976e-a58987931fd9.gif" width="225px"/> -->
 </p>
   
+- 🙎‍♀️ Pronouns: She | Her
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
 - 🌱 I’m passionate in efficient software developments 👩‍💻 on embedded systems with my hardware major background. I'm also developing interests in DevOps with ML applications lately! ⚡
 - 💡 I love to create, develop and communicate. Communities are what makes me endlessly motivated. Feel free to reach me! 😘
