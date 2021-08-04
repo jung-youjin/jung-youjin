@@ -1,12 +1,10 @@
 ### Hi there 👋 I'm YouJin!
 
-
 <p>
 <!-- ![https://github.com/jung-youjin](https://user-images.githubusercontent.com/37402072/123548370-7ce3ae00-d79f-11eb-8c14-644ff3914a2f.gif) -->
    
   <img src ="https://i.pinimg.com/originals/b4/b6/d0/b4b6d0fdd1db2f90a76ce4665a4355b4.gif" width="35%" />
   <img src ="https://user-images.githubusercontent.com/37402072/124953068-c493f080-e04f-11eb-99fb-33366bb093d9.png" width="40%"/>
-
         
 
   <!--
@@ -28,7 +26,7 @@
 
 <!-- <img src ="https://user-images.githubusercontent.com/37402072/123548578-4bb7ad80-d7a0-11eb-976e-a58987931fd9.gif" width="225px"/> -->
 </p>
-  
+
 - 🙎‍♀️ Pronouns: She | Her
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
 - 🌱 I’m passionate in efficient software developments 👩‍💻 on embedded systems with my hardware major background. I'm also developing interests in DevOps with ML applications lately! ⚡
@@ -47,7 +45,8 @@
 
 - 📫 Contacts
    <p>
-     <a href="mailto:jungyoujin0527@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:jungyoujin0527@gmail.com?subject=Hi%YouJin,%reaching%out%to%you%from%Github!)"/> <a href="https://www.linkedin.com/in/youjinjung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/youjinjung/"/> <a href="https://www.instagram.com/_jungyoujin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jungyoujin/"/> <a href="https://www.facebook.com/jungyoujin0527"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jungyoujin0527"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-youjin&count_bg=%23F39C9C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true"/></a>
+     <a href="mailto:jungyoujin0527@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:jungyoujin0527@gmail.com?subject=Hi%YouJin,%reaching%out%to%you%from%Github!)"/> <a href="https://www.linkedin.com/in/youjinjung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/youjinjung/"/> <a href="https://www.instagram.com/_jungyoujin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jungyoujin/"/> <a href="https://www.facebook.com/jungyoujin0527"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jungyoujin0527"/></a> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjung-youjin&count_bg=%23F39C9C&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=true"/></a> &nbsp
+        <img src ="https://education.github.com/assets/next/campus-experts/ce-flag-59b436097e6168e12b543fec9e936037ff777d1c0160fa4b07cd7394d8779418.png" width="10%">
    </p>
 
      
