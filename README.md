@@ -29,7 +29,7 @@
 
 - 🙎‍♀️ Pronouns: She | Her
 - 🔭 I’m currently a final year Electronic & Electrical Engineering student with Computer Science Engineering minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
-- 🌱 I’m passionate in efficient software developments 👩‍💻 on embedded systems with my hardware major background. I'm also developing interests in DevOps with ML applications lately! ⚡
+- 🌱 I’m passionate in efficient software developments 👩‍💻 on embedded systems with my hardware major background on circuit designs. 🎛 I'm also developing interests in DevOps with ML applications lately! ⚡
 - 💡 I love to create, develop and communicate. Communities are what makes me endlessly motivated. Feel free to reach me! 😘
 <!-- - 🌱 I’m passionate in software developments 👩‍💻 (newbie🍀 focusing on embedded sw) as well as my major studies focusing on integrated circuit designs, digital image processing + deep learning ⚡
 - 🌼 I'm also developing my skills in **tech-leadership**, making presentations, writing journals, **creative design creations**
