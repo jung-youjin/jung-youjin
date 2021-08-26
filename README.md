@@ -1,7 +1,7 @@
-<p align="center">
-   <img src ="https://user-images.githubusercontent.com/37402072/130897768-7178567e-98aa-4c70-9b82-f19f4db9c3c9.gif" height="40%"/>
-   <img src ="https://user-images.githubusercontent.com/37402072/130901310-d3878c5e-d772-4128-bafc-e21caed95bbc.png" height="40%"/>
-</p>
+<div align="center" display="inline-block">
+   <img src ="https://user-images.githubusercontent.com/37402072/130897768-7178567e-98aa-4c70-9b82-f19f4db9c3c9.gif" width="35%"/>
+   <img src ="https://user-images.githubusercontent.com/37402072/130901310-d3878c5e-d772-4128-bafc-e21caed95bbc.png" width="30%"/>
+</div>
 
 - 🙎‍♀️ Pronouns: **She | Her**
 - 🔭 I’m currently a final year **Electronic & Electrical Engineering** undergraduate student with **Computer Science Engineering** minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
