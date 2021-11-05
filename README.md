@@ -4,8 +4,8 @@
 </div>
 
 - 🙎‍♀️ Pronouns: **She | Her**
-- 🔭 I’m currently a final year **Electronic & Electrical Engineering** undergraduate student with **Computer Science Engineering** minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸, working as an Embedded Engineering Intern @ [Bear Robotics](https://bearrobotics.ai) 🐻
-- 🌱 I’m passionate in efficient software developments on embedded systems with my hardware major background on circuit designs. 🎛 I'm also developing interests in DevOps with ML applications lately! ⚡
+- 🔭 I’m currently a final year **Electronic & Electrical Engineering** undergraduate student with **Computer Science Engineering** minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸
+- 🌱 I’m passionate in efficient software developments on embedded systems with my hardware major background on electronic circuit designs. 🎛 I'm also developing interests in DevOps with ML applications lately! ⚡
 - 💡 I love to **create🎨, develop👩‍💻** and **communicate👨‍👩‍👧‍👦**. Communities are what makes me endlessly motivated! Feel free to reach me!🌏
   
 ### 📫 Contacts
