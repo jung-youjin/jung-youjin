@@ -3,7 +3,7 @@
    <img src ="https://user-images.githubusercontent.com/37402072/130901310-d3878c5e-d772-4128-bafc-e21caed95bbc.png" width="30%"/>
 </div>
 
-- 🙎‍♀️ Pronouns: **She | Her**
+- 🙎‍♀️ Pronouns: **She / Her**
 - 🔭 I’m a fresh graduate with bachelor's degree in **Electronic & Electrical Engineering** with **Computer Science Engineering** minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸, working as a software engineer on ultrasonic systems @ [GE Healthcare](https://gehealthcare.com) 🩺
 - 🌱 I’m passionate in efficient software developments on embedded systems with my hardware major background on electronic circuit designs. 🎛 I'm also developing interests in Cloud, DevOps with ML applications lately! ⚡
 - 💡 I love to **create🎨, develop👩‍💻** and **communicate👨‍👩‍👧‍👦**. Communities are what makes me endlessly motivated! Feel free to reach me!🌏
@@ -14,6 +14,7 @@
    &nbsp; &nbsp; &nbsp; &nbsp;
    <a href="mailto:jungyoujin0527@gmail.com?"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=(mailto:jungyoujin0527@gmail.com?subject=Hi%YouJin,%reaching%out%to%you%from%Github!)"></a>
    <a href="https://www.linkedin.com/in/youjinjung/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/youjinjung/"></a>
+   <a href="https://twitter.com/_youjinjung/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/_youjinjung/"></a>
    <a href="https://www.instagram.com/_jungyoujin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jungyoujin/"></a>
    <a href="https://www.facebook.com/jungyoujin0527"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jungyoujin0527"></a>
    <a href="https://youjinjung.me"><img src="http://img.shields.io/badge/-youjinjung.me-black?style=flat-square&logo=windowsterminal"></a>	
