@@ -6,7 +6,7 @@
 - 🙎‍♀️ Pronouns: **She / Her**
 - 🔭 I’m a fresh graduate with bachelor's degree in **Electronic & Electrical Engineering** as major and **Computer Science Engineering** as minor @ [Ewha Womans University](https://ewha.ac.kr) 🌸, working as a software R&D engineer. 👩🏻‍💻
 - 🌱 I’m passionate in efficient software developments on distributed systems with my hardware major background on electronic circuit designs, semiconductor manufacturing process. 🎛 I'm also developing interests in Cloud, MLOps with Deep Learning applications lately! ⚡
-- 💡 I love to **create🎨, develop👩‍💻** and **communicate👨‍👩‍👧‍👦**. Communities are what makes me endlessly motivated! Feel free to reach me!🌏
+- 💡 I love to **create🎨, develop👩‍💻** and **communicate👨‍👩‍👧‍👦**. Communities are what makes me endlessly motivated! Feel free to reach out to me!🌏
   
 ### 📫 Contacts
 
